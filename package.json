@@ -1,0 +1,29 @@
+{
+  "name": "custom_alert_modal",
+  "version": "1.0.0",
+  "description": "A Simple modal inspire by Alert on React Native module",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src -d dist"
+  }
+  ,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliofihdeldev/custom_alert_modal.git"
+  },
+  "keywords": [
+    "custom",
+    "modal",
+    "alert"
+  ],
+  "author": "Juliofihdeldev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juliofihdeldev/custom_alert_modal/issues"
+  },
+  "homepage": "https://github.com/juliofihdeldev/custom_alert_modal#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
+  }
+}
